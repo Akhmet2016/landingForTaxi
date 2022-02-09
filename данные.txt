@@ -1,0 +1,25 @@
+Создаешь нового бота в Telegram, пишешь сюда: t.me/botFather сначала /start, затем /newbot.
+Узнаешь ID твоего аккаунта в Telegram. Сделать это можно, написав боту t.me/userinfobot
+Создаешь ссылку на API Telegram для отправки сообщения в чат с тобой (предварительно нужно начать чат с твоим ботом в Telegram, для этого нужно нажать /start). Ссылка выглядит таким образом: https://api.telegram.org/bot[Токен бота]/sendMessage?chat_id=[Твой ID]&text=[Текст]
+
+
+
+https://t.me/botFather
+Name for your bot: yandexTaxi     yandexTaxiSTR
+Username for your bot: strYandexTaxiBot     strYandexTaxiBot
+Use this token to access the HTTP API: 5165462165:AAG7hmYKhsrg3ZdMb8yXyOEBcm2OSdyFEPE     5284639003:AAELLfqtfGjEp5n7gBDlsffsungQCv_M-8M
+Chat id: 482602532     753257878
+https://api.telegram.org/bot5165462165:AAG7hmYKhsrg3ZdMb8yXyOEBcm2OSdyFEPE/sendMessage?chat_id=482602532&text='Hello'
+
+@AkhmetNovruzov
+Id: 482602532
+First: Akhmet
+Last: Novruzov
+Lang: ru
+
+перейти в директорию с index.html и запустить в консоли: php -S 127.0.0.1:8080
+
+ftp:	j16715715.myjino.ru
+	yandextaxistr.ru
+	j16715715 
+	taxiSTR2022
